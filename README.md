@@ -3,6 +3,14 @@ Completed By: Divyam Malik
 Roll No. 102103142
 ---
 
+## Result Table
+
+![Result Table](Result_Table.png)
+
+## Result Graph
+
+![Result Graph](Result_Graph.png)
+
 ## Overview
 
 This report offers a comprehensive analysis of the [Dry Bean Dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) (UCI ML Repository ID: 602).
@@ -73,13 +81,7 @@ plt.title('Correlation Heatmap')
 plt.show()
 ```
 
-## Result Table
 
-![Result Table](Result_Table.png)
-
-## Result Graph
-
-![Result Graph](Result_Graph.png)
 
 ---
 
